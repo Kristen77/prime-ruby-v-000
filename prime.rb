@@ -1,3 +1,3 @@
 def prime?
-  Prime.each 
+  Prime.each(100)  
 end
