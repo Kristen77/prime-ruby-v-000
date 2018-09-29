@@ -1,6 +1,6 @@
 require 'prime'
 
 def prime?(number)
- number = []
+ if Prime.prime
  number
 end
